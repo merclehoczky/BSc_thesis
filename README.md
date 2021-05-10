@@ -26,11 +26,11 @@ Used R libraries:
 
 Used data and results are available at [Google Drive](https://drive.google.com/drive/folders/1dYfibnBtQ88hHNhro6npLke752HZbTgX?usp=sharing).
 
-First, we created exploratory pipelines for each dataset we used from the [MIX-Seq study](https://www.nature.com/articles/s41467-020-17440-w).
+First, we created exploratory pipelines (01-06) for each dataset we used from the [MIX-Seq study](https://www.nature.com/articles/s41467-020-17440-w).
 
-Next, we ran [DoRothEA](https://bioconductor.org/packages/release/data/experiment/vignettes/dorothea/inst/doc/single_cell_vignette.html) and [PROGENy](https://www.bioconductor.org/packages/release/bioc/vignettes/progeny/inst/doc/ProgenySingleCell.html) on the data.
+Next, we ran [DoRothEA](https://bioconductor.org/packages/release/data/experiment/vignettes/dorothea/inst/doc/single_cell_vignette.html) and [PROGENy](https://www.bioconductor.org/packages/release/bioc/vignettes/progeny/inst/doc/ProgenySingleCell.html) on the data (11-17).
 
-Finally, we analyzed the comparable datasets:
+Finally, we analyzed the comparable datasets (21-24):
  * DMSO vs Idasanutlin 24h experiment1
  * DMSO vs Trametinib 24h experiment1
  * DMSO vs Trametinib 24h experiment3
